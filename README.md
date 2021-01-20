@@ -1,4 +1,4 @@
-![alt README header](https://raw.githubusercontent.com/vldmatos/vldmatos/master/assets/header.jpg)
+![alt README header](https://raw.githubusercontent.com/vldmatos/vldmatos/master/assets/header.png)
 # **Vladimir Matos**  
 
 🍖 Eat - 💻 Code - ☕ Coffe - 💪🏽 Sleep - ♻️ Repeat
