@@ -11,12 +11,7 @@ I´m software developer.
 - ⚽ I like soccer
 - 🎥 And also a good movie
 
-🔭 I am currently working on a component to be used in creating microservices on Azure Devops
-
-<br />
-<br />
-
-## Connect with me:
+🔭 I am currently working on a component to be used in creating microservices on Azure Devops  
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/vldmatos">
@@ -26,8 +21,5 @@ I´m software developer.
         <img src="https://raw.githubusercontent.com/vldmatos/vldmatos/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
 </div>
-
-<br />
-<br />
 
 <img align="left" alt="vldmatos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vldmatos&show_icons=true&hide_border=true&theme=dark" />
