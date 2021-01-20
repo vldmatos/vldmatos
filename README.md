@@ -12,7 +12,7 @@ I´m software developer.
 - 🎥 And also a good movie
 
 🔭 I am currently working on a component to be used in creating microservices on Azure Devops  
-
+## Connect  
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/vldmatos">
         <img src="https://raw.githubusercontent.com/vldmatos/vldmatos/master/assets/twitter.svg" alt="Follow me on twitter">
@@ -20,6 +20,7 @@ I´m software developer.
      <a href="https://www.linkedin.com/in/vldmatos/">
         <img src="https://raw.githubusercontent.com/vldmatos/vldmatos/master/assets/linkedin.svg" alt="Connect on Linkedin">
     </a>
-</div>
+</div>  
 
+## Status  
 <img align="left" alt="vldmatos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vldmatos&show_icons=true&hide_border=true&theme=dark" />
