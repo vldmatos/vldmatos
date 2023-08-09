@@ -5,13 +5,11 @@
 
 I´m software developer.
 
-- 💚 I really like .Net and Javascript  
+- 💚 I really like .Net cross platform 
 - 📘 Interested in devops and microservices  
-- 🌎 Contribute more to Open Source projects  
-- ⚽ I like soccer
-- 🎥 And also a good movie
+- 🌎 Kubernetes and Cloud  
 
-🔭 I am currently working on a component to be used in creating microservices on Azure Devops  
+🔭 I am currently working on a component to be used in creating microservices on private repository binesty  
 ## Connect  
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/vldmatos">
