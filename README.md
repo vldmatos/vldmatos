@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="assets/header.jfif" alt="banner" width="100%" />
+</div>
+
 # Vladimir Matos
 
-**Senior Software Engineer & Solutions Architect — designing systems that scale, last, and deliver.**
+**Senior Software Engineer & Solutions Architect — Designing systems that scale, last, and deliver.**
 
 ---
 
@@ -25,23 +29,23 @@ Focused on clean, maintainable design. Comfortable making architectural trade-of
 
 ## Core Stack
 
-**Languages**
+**AI**
+`Spec Kit` · `Microsoft Foundry` · `LLMs` · `RAG` · `MCP`
+
+**Languages & Frameworks**
 `C# / .NET` · `Python` · `JavaScript / Node.js`
 
 **Cloud & Infrastructure**
 `Azure` · `AWS` · `Kubernetes` · `Terraform` · `Ansible` · `Docker`
 
 **Messaging & Streaming**
-`Kafka` · `RabbitMQ` · `Azure Service Bus` · `MQTT`
+`Kafka` · `RabbitMQ` · `Azure Service Bus`
 
 **Data**
 `SQL Server` · `PostgreSQL` · `CosmosDB` · `DynamoDB`
 
 **DevOps & Observability**
 `GitLab CI/CD` · `GitHub Actions` · `OpenTelemetry` · `Prometheus / Grafana` · `ELK Stack`
-
-**AI**
-`Microsoft Foundry` · `LLMs` · `RAG` · `MCP`
 
 ---
 
@@ -58,7 +62,7 @@ Focused on clean, maintainable design. Comfortable making architectural trade-of
 ## Selected Projects
 
 **[binesty.com](https://binesty.com)**
-SaaS platform built on Actor Model architecture using Microsoft Orleans and Azure cloud-native services. Includes CI/CD pipelines and AI Agents via Microsoft Foundry.
+Platform built on Actor Model architecture using Microsoft Orleans and Azure cloud-native services. Includes CI/CD pipelines and AI Agents via Microsoft Foundry.
 
 **Kubernetes Migration for Critical Systems**
 Designed and deployed multi-cluster Kubernetes environments running hundreds of pods for production workloads with industrial IoT integration over RabbitMQ and Kafka. Achieved high availability and low-latency communication at enterprise scale.
