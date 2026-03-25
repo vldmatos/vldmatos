@@ -1,24 +1,78 @@
-![alt README header](https://raw.githubusercontent.com/vldmatos/vldmatos/master/assets/header.png)
-# **Vladimir Matos**  
+# Vladimir Matos
 
-🍖Eat - 💻Code - ☕Coffe - 😴Sleep - ♻️Repeat
+**Senior Software Engineer & Solutions Architect — designing systems that scale, last, and deliver.**
 
-I´m software developer.
+---
 
-- 💚 I really like .Net cross platform 
-- 📘 Interested in devops and microservices  
-- 🌎 Kubernetes and Cloud  
+## Summary
 
-🔭 I am currently working on a component to be used in creating microservices on private repository binesty  
-## Connect  
-<div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://twitter.com/vldmatos">
-        <img src="https://raw.githubusercontent.com/vldmatos/vldmatos/master/assets/twitter.svg" alt="Follow me on twitter">
-    </a>
-     <a href="https://www.linkedin.com/in/vldmatos/">
-        <img src="https://raw.githubusercontent.com/vldmatos/vldmatos/master/assets/linkedin.svg" alt="Connect on Linkedin">
-    </a>
-</div>  
+18+ years building and leading high-availability distributed systems across global enterprise environments. Deep expertise in .NET, cloud-native architectures (Azure & AWS), and Kubernetes at scale. Experienced in guiding full lifecycle transformations — from legacy migrations to modern event-driven, microservices-based platforms.
 
-## Status  
-<img align="left" alt="vldmatos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vldmatos&show_icons=true&hide_border=true&theme=dark" />
+Focused on clean, maintainable design. Comfortable making architectural trade-offs, setting technical direction, and working across the stack when it matters.
+
+---
+
+## Areas of Focus
+
+- Back-end systems and API design at scale
+- Cloud-native architecture and infrastructure (Azure, AWS)
+- Kubernetes and container orchestration
+- CI/CD, GitOps, and developer platform automation
+- Observability, reliability, and system resilience
+- AI integration and agent-based systems
+
+---
+
+## Core Stack
+
+**Languages**
+`C# / .NET` · `Python` · `JavaScript / Node.js`
+
+**Cloud & Infrastructure**
+`Azure` · `AWS` · `Kubernetes` · `Terraform` · `Ansible` · `Docker`
+
+**Messaging & Streaming**
+`Kafka` · `RabbitMQ` · `Azure Service Bus` · `MQTT`
+
+**Data**
+`SQL Server` · `PostgreSQL` · `CosmosDB` · `DynamoDB`
+
+**DevOps & Observability**
+`GitLab CI/CD` · `GitHub Actions` · `OpenTelemetry` · `Prometheus / Grafana` · `ELK Stack`
+
+**AI**
+`Microsoft Foundry` · `LLMs` · `RAG` · `MCP`
+
+---
+
+## Architecture & Specialties
+
+- Clean Architecture · Domain-Driven Design · SOLID
+- Microservices · Event-Driven Architecture · Actor Model (Microsoft Orleans)
+- Multi-cluster Kubernetes with GitOps and full observability
+- Hybrid and multi-cloud environments (AKS, EKS, on-premises remote gateways)
+- Azure API Management · IoT integration at industrial scale
+
+---
+
+## Selected Projects
+
+**[binesty.com](https://binesty.com)**
+SaaS platform built on Actor Model architecture using Microsoft Orleans and Azure cloud-native services. Includes CI/CD pipelines and AI Agents via Microsoft Foundry.
+
+**Kubernetes Migration for Critical Systems**
+Designed and deployed multi-cluster Kubernetes environments running hundreds of pods for production workloads with industrial IoT integration over RabbitMQ and Kafka. Achieved high availability and low-latency communication at enterprise scale.
+
+**Cloud Migration & Digital Transformation**
+Led migration of core business systems from on-premises to Azure and AWS — covering networking, compute, message brokers, load balancers, and distributed databases. Defined hybrid cloud topologies and delivery automation end-to-end.
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vldmatos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vldmatos)
+[![GitHub](https://img.shields.io/badge/GitHub-vldmatos-181717?style=flat&logo=github&logoColor=white)](https://github.com/vldmatos)
+
+---
+
+*Good architecture is invisible. It only becomes visible when it's missing.*
