@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="assets/header.jfif" alt="banner" width="100%" />
-</div>
-
 # Vladimir Matos
 
 **Senior Software Engineer & Solutions Architect — Designing systems that scale, last, and deliver.**
