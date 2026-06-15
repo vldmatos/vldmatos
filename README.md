@@ -1,7 +1,8 @@
 # Vladimir Matos
 
-**Senior Software Engineer & Solutions Architect — Designing systems that scale, last, and deliver.**
+**Senior Software Engineer | Solutions Architect | Cloud | DevOps | Kubernetes | AI | Founder [Binesty](https://binesty.com)**
 
+- With experience in developing scalable, high-availability systems.
 ---
 
 ## Summary
