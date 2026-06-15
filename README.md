@@ -1,6 +1,6 @@
 # Vladimir Matos
 
-**Senior Software Engineer | Solutions Architect | Cloud | DevOps | Kubernetes | AI | Founder [Binesty](https://binesty.com)**
+**Senior Software Engineer | Solutions Architect | Cloud | DevOps | Kubernetes | AI**
 
 - With experience in developing scalable, high-availability systems.
 ---
@@ -58,7 +58,7 @@ Focused on clean, maintainable design. Comfortable making architectural trade-of
 
 ## Selected Projects
 
-**[binesty.com](https://binesty.com)**
+**[Binesty](https://binesty.com)**
 Platform built on Actor Model architecture using Microsoft Orleans and Azure cloud-native services. Includes CI/CD pipelines and AI Agents via Microsoft Foundry.
 
 **Kubernetes Migration for Critical Systems**
